@@ -18,4 +18,4 @@ The folder contains images of real DeepZ predictions
 
 Notebook that can create images from images folder
 
-Deep learning model code can be found in ![repo](https://github.com/Nazar1997/DeepZ_data_creation)
+Deep learning model code can be found in [repo](https://github.com/Nazar1997/DeepZ_data_creation)
