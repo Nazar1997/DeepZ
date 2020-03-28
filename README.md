@@ -1,4 +1,4 @@
-# APPENDIX FOR DEEPZ PAPER
+# Appendix for DeepZ paper
 
 Here you can find the whole human genome (hg19) annotation.
 
