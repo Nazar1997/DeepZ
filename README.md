@@ -10,6 +10,8 @@ The folder contains experimental ZDNA regions, ZHUNT prediction and the whole ge
 
 The folder contains images of real DeepZ predictions
 
+![](images/chr11_118305000-118310000.pdf)
+
 ### Annotation.ipynb
 
 Notebook that can create images from images folder
